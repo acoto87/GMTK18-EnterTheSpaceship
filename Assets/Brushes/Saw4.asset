@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c64762021609712408600cc8c99154ae, type: 3}
+  m_Name: Saw4
+  m_EditorClassIdentifier: 
+  m_Prefabs:
+  - {fileID: 1886924711969166, guid: 0f76997a4bbf7584b9356dfd82d8b448, type: 2}
+  m_PerlinScale: 0.5
+  m_Z: 0
